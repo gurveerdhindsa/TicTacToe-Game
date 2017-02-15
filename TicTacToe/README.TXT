@@ -1,4 +1,4 @@
-PROJECT TITLE: Chess
+PROJECT TITLE: TicTacToe
 PURPOSE OF PROJECT: To implement fully functional tic-tac-toe game that can only perform legal moves. The game is played on an interactive GUI where each player takes their turn.
 VERSION or DATE: 2016-12-04
 HOW TO START THIS PROJECT: 
